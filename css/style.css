@@ -100,7 +100,7 @@ header {
     margin-left: 35px;
 }
 
-#header-shape {
+header div {
     width: 469px;
     height: 214px;
     background-color: #ffffff;
